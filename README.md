@@ -1,4 +1,6 @@
 LangChain + Gemini Movie Recommendation
+<img width="1536" height="1024" alt="LangChain + Gemini Movie Recommendation" src="https://github.com/user-attachments/assets/72cf5f83-6d70-467a-a293-ff0c7c823bb3" />
+
 
 A small project I built while learning LangChain and Generative AI.
 
