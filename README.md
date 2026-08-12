@@ -56,8 +56,5 @@ Add movie posters
 Add RAG
 Add conversation memory
 Convert the workflow into an AI agent
-Author
-
-Nithish Kumar
 
 Learning and building in Generative AI, LangChain, and AI/ML.
